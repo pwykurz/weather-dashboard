@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+.pnp.cjs
+.pnp.loader.mjs
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Build output
+dist/
+.next/
+out/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel
+.vercel/
+.vercelignore
+
+# Debug
+.vscode/
+*.swp
+*.swo
+
+# Editor specific
+.idea/
+.DS_Store
+Thumbs.db
+
+# Lint and test cache
+.eslintcache
+.stylelintcache
+.cache/
+coverage/
+
+# Temporary files
+temp/
+tmp/
+
+# Others
+*.bak
+*.log
+*.lock
