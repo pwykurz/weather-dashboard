@@ -6,6 +6,7 @@ import {
   CategoryScale,
   Tooltip,
   Legend,
+  ChartOptions,
 } from 'chart.js';
 import { Line } from 'react-chartjs-2';
 
@@ -31,7 +32,7 @@ const TemperatureChart = ({ labels, data }: TemperatureChartProps) => {
     ],
   };
 
-  const options = {
+  const options: ChartOptions<'line'> = {
     responsive: true,
     maintainAspectRatio: false,
     plugins: {
@@ -68,4 +69,3 @@ const TemperatureChart = ({ labels, data }: TemperatureChartProps) => {
 };
 
 export default TemperatureChart;
-

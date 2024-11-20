@@ -1,4 +1,3 @@
-
 type WeatherCardProps = {
   city: string;
   temperature: number;
