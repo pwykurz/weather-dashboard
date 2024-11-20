@@ -87,7 +87,7 @@ This project is licensed under the MIT License. Feel free to use it as a startin
 ## **Support My Work**
 If you find this project helpful and would like to support me, consider buying me a coffee! Your support motivates me to create more high-quality tutorials and projects like this one. ☕✨
 
-👉 [Buy Me a Coffee](buymeacoffee.com/thecodeconduit)
+👉 [Buy Me a Coffee](https://buymeacoffee.com/thecodeconduit)
 
 ---
 
